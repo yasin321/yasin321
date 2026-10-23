@@ -1,28 +1,22 @@
 <div align="center">
 
-  <!-- High-Contrast Neon Cyan Animated Header -->
-  <a href="[https://www.linkedin.com/in/yasin-akbari-jira-agile/](https://www.linkedin.com/in/yasin-akbari-jira-agile/)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Struggling+with+Jira%3F+Let's+Fix+It+%F0%9F%9A%80;Yasin+Akbari+%7C+Senior+Jira+%26+Atlassian+Architect;ScriptRunner+(Java%2FGroovy)+%26+ITSM%2FJSM+Specialist;DevOps+Infrastructure+%7C+Linux+%2C+Docker+%26+CI%2FCD](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Struggling+with+Jira%3F+Let's+Fix+It+%F0%9F%9A%80;Yasin+Akbari+%7C+Senior+Jira+%26+Atlassian+Architect;ScriptRunner+(Java%2FGroovy)+%26+ITSM%2FJSM+Specialist;DevOps+Infrastructure+%7C+Linux+%2C+Docker+%26+CI%2FCD)" alt="Typing SVG" />
-  </a>
+  <h1>⚡ Yasin Akbari | Senior Jira & Atlassian Architect</h1>
+  <h3><code>ScriptRunner (Java/Groovy)</code> • <code>ITSM / JSM & BPMN</code> • <code>DevOps & Linux Infrastructure</code></h3>
+  <p><b>🏛️ Architecting Enterprise Atlassian Ecosystems (Data Center & Cloud) & Resilient Docker/Linux Infrastructures 🚀</b></p>
 
-  <p align="center">
-    <b>🏛️ Architecting Enterprise Atlassian Ecosystems (Data Center & Cloud) & Resilient Linux/Docker Infrastructures ⚙️</b>
+  <!-- Fast CDN Action Buttons (Badgen - Zero Timeout) -->
+  <p>
+    <a href="https://www.linkedin.com/in/yasin-akbari-jira-agile/" target="_blank"><img src="https://badgen.net/badge/LinkedIn/2.2K+%20Followers%20%7C%20Connect/0A66C2?icon=linkedin" alt="LinkedIn" /></a>
+    <a href="https://github.com/yasin321/jira-devops-automation-scripts"><img src="https://badgen.net/badge/ScriptRunner/Groovy%20%26%20Java%20Vault/0052CC?icon=jira" alt="Jira Scripts" /></a>
+    <a href="https://github.com/yasin321/linux-infra-and-monitoring"><img src="https://badgen.net/badge/DevOps/Docker%20%26%20Linux%20Stack/2496ED?icon=docker" alt="DevOps Stack" /></a>
+    <a href="mailto:ycnakbari@gmail.com"><img src="https://badgen.net/badge/Gmail/ycnakbari@gmail.com/EA4335?icon=mail" alt="Gmail" /></a>
   </p>
 
-  <!-- Perfectly Aligned 1-Row Action Bar -->
-  <p align="center">
-    <a href="[https://www.linkedin.com/in/yasin-akbari-jira-agile/](https://www.linkedin.com/in/yasin-akbari-jira-agile/)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-2.2K%2B_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-2.2K%2B_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-    <a href="[https://github.com/yasin321/jira-devops-automation-scripts](https://github.com/yasin321/jira-devops-automation-scripts)"><img src="[https://img.shields.io/badge/Groovy_%2F_Java-Scripts-0052CC?style=for-the-badge&logo=jira&logoColor=white](https://img.shields.io/badge/Groovy_%2F_Java-Scripts-0052CC?style=for-the-badge&logo=jira&logoColor=white)" /></a>
-    <a href="[https://github.com/yasin321/linux-infra-and-monitoring](https://github.com/yasin321/linux-infra-and-monitoring)"><img src="[https://img.shields.io/badge/DevOps-Docker_Stack-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-Docker_Stack-2496ED?style=for-the-badge&logo=docker&logoColor=white)" /></a>
-    <a href="mailto:ycnakbari@gmail.com"><img src="[https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-  </p>
-
-  <!-- Perfectly Aligned 1-Row Executive Metrics -->
-  <p align="center">
-    <img src="[https://img.shields.io/badge/Experience-5%2B_Yrs_Enterprise_IT-10B981?style=flat-square](https://img.shields.io/badge/Experience-5%2B_Yrs_Enterprise_IT-10B981?style=flat-square)" />
-    <img src="[https://img.shields.io/badge/Scale-280%2B_Users_Governed-3B82F6?style=flat-square](https://img.shields.io/badge/Scale-280%2B_Users_Governed-3B82F6?style=flat-square)" />
-    <img src="[https://img.shields.io/badge/Impact-65%25_Manual_Work_Cut-8B5CF6?style=flat-square](https://img.shields.io/badge/Impact-65%25_Manual_Work_Cut-8B5CF6?style=flat-square)" />
-    <img src="[https://img.shields.io/badge/Degree-B.Sc._Industrial_Eng_(FUM)-F59E0B?style=flat-square](https://img.shields.io/badge/Degree-B.Sc._Industrial_Eng_(FUM)-F59E0B?style=flat-square)" />
+  <p>
+    <img src="https://badgen.net/badge/Experience/5+%20Yrs%20Enterprise%20IT/10B981" alt="Experience" />
+    <img src="https://badgen.net/badge/Scale/280+%20Users%20Governed/3B82F6" alt="Scale" />
+    <img src="https://badgen.net/badge/Automation/65%25%20Manual%20Work%20Cut/8B5CF6" alt="Automation" />
+    <img src="https://badgen.net/badge/Education/B.Sc.%20Industrial%20Eng%20(FUM)/F59E0B" alt="Education" />
   </p>
 
 </div>
@@ -57,38 +51,17 @@ graph LR
 ### 🛠️ Core Tech Stack & Ecosystem
 
 <div align="center">
-
-  **🟦 Atlassian Ecosystem, ITSM & Process Engineering**
-  <br/>
-  <img src="[https://img.shields.io/badge/Jira_Data_Center_%26_Cloud-0052CC?style=for-the-badge&logo=jira&logoColor=white](https://img.shields.io/badge/Jira_Data_Center_%26_Cloud-0052CC?style=for-the-badge&logo=jira&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/ScriptRunner_(Groovy/Java)-205081?style=for-the-badge&logo=atlassian&logoColor=white](https://img.shields.io/badge/ScriptRunner_(Groovy/Java)-205081?style=for-the-badge&logo=atlassian&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/ITIL_v4_%26_BPMN_2.0-FF6C37?style=for-the-badge&logo=diagramsdotnet&logoColor=white](https://img.shields.io/badge/ITIL_v4_%26_BPMN_2.0-FF6C37?style=for-the-badge&logo=diagramsdotnet&logoColor=white)" />
-
-  <br/>
-
-  **☕ Backend Scripting, Automation & Integrations**
-  <br/>
-  <img src="[https://img.shields.io/badge/Java_(Atlassian_SDK)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java_(Atlassian_SDK)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Apache_Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white](https://img.shields.io/badge/Apache_Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/JavaScript_(AJS_%2F_DOM)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript_(AJS_%2F_DOM)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/REST_APIs_%26_Webhooks-009688?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/REST_APIs_%26_Webhooks-009688?style=for-the-badge&logo=postman&logoColor=white)" />
-
-  <br/>
-
-  **🐧 DevOps, Linux Infrastructure & Analytics**
-  <br/>
-  <img src="[https://img.shields.io/badge/Linux_(Ubuntu/CentOS)-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux_(Ubuntu/CentOS)-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Nginx_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white](https://img.shields.io/badge/Nginx_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Grafana_%26_Prometheus-F46800?style=for-the-badge&logo=grafana&logoColor=white](https://img.shields.io/badge/Grafana_%26_Prometheus-F46800?style=for-the-badge&logo=grafana&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Power_BI_%26_eazyBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI_%26_eazyBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)" />
-
+  <p><b>🐧 DevOps, Containers, Scripting & Observability</b></p>
+  <a href="https://github.com/yasin321">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,bash,python,java,js,git,gitlab,githubactions,grafana,prometheus,react,ts&perline=8" alt="Tech Stack Icons" />
+  </a>
 </div>
+
+<br/>
+
+| 🟦 Atlassian & Process Governance | ☕ Backend & API Automation | 🖧 Infrastructure & Analytics |
+| :--- | :--- | :--- |
+| • **Jira Data Center & Cloud**<br>• **Jira Service Management (JSM)**<br>• **Confluence & Knowledge Base**<br>• **BPMN 2.0 & ITIL v4 Practices** | • **ScriptRunner (Groovy / Java SDK)**<br>• **Custom Behaviours & Post-Functions**<br>• **Web Fragments & DOM Observers**<br>• **REST APIs & Webhook Routing** | • **Linux Server Admin & Tunneling**<br>• **Docker & Docker Compose**<br>• **Nginx Reverse Proxy & SSL**<br>• **Prometheus, Grafana & Power BI** |
 
 ---
 
@@ -121,23 +94,10 @@ graph LR
 
 ---
 
-### 📈 GitHub Telemetry & Code Breakdown
-
-<div align="center">
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=yasin321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=yasin321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)" />
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321&layout=compact&langs_count=6&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin321&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)" />
-</div>
-
-<div align="center">
-  <img src="[https://streak-stats.demolab.com?user=yasin321&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=yasin321&theme=tokyonight&hide_border=true)" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <h3>🤝 Let's Connect & Build Resilient Systems</h3>
   <p>I regularly publish hands-on architectural teardowns on <b>Jira Data Center</b>, <b>ScriptRunner (Java/Groovy)</b>, and <b>DevOps Automation</b> on LinkedIn.</p>
-  <a href="[https://www.linkedin.com/in/yasin-akbari-jira-agile/](https://www.linkedin.com/in/yasin-akbari-jira-agile/)" target="_blank">
-    <img src="[https://img.shields.io/badge/Visit_My_LinkedIn_Profile-Yasin_Akbari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Visit_My_LinkedIn_Profile-Yasin_Akbari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  <a href="https://www.linkedin.com/in/yasin-akbari-jira-agile/" target="_blank">
+    <img src="https://badgen.net/badge/LinkedIn/Visit%20Yasin%20Akbari's%20Profile/0A66C2?icon=linkedin" alt="LinkedIn Profile" />
   </a>
 </div>
