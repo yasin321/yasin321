@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>🏛️ Architecting Scalable Atlassian Ecosystems (Jira Data Center / JSM) & Reliable Linux/Docker Infrastructures 🚀</b>
+    <b> Architecting Scalable Atlassian Ecosystems (Jira Data Center / JSM) & Reliable Linux/Docker Infrastructures </b>
   </p>
 
   <!-- High-Contrast Call-to-Action Buttons -->
@@ -26,11 +26,11 @@
 
 ---
 
-### 👨‍💼 Executive Summary
+###  Executive Summary
 
-- 🏆 **Senior Jira Administrator & Atlassian Solution Architect** with **5+ years of experience** governing enterprise platforms (200–280+ users), designing **BPMN workflows**, and automating complex ITSM/Agile operations.
-- ☕ **Java / Groovy Backend Scripting (ScriptRunner):** Deep expertise in **Atlassian Java API**, developing custom Post-Functions, Server-Side Behaviours, Web Fragments, and REST API/Webhook integrations.
-- 🐧 **DevOps & Infrastructure Engineering:** Hands-on experience hosting self-managed platforms on **Linux**, containerizing services with **Docker & Docker Compose**, configuring **Nginx** reverse proxies, and managing multi-server network tunnels.
+-  **Senior Jira Administrator & Atlassian Solution Architect** with **5+ years of experience** governing enterprise platforms (200–280+ users), designing **BPMN workflows**, and automating complex ITSM/Agile operations.
+-  **Java / Groovy Backend Scripting (ScriptRunner):** Deep expertise in **Atlassian Java API**, developing custom Post-Functions, Server-Side Behaviours, Web Fragments, and REST API/Webhook integrations.
+-  **DevOps & Infrastructure Engineering:** Hands-on experience hosting self-managed platforms on **Linux**, containerizing services with **Docker & Docker Compose**, configuring **Nginx** reverse proxies, and managing multi-server network tunnels.
 - 📊 **Data-Driven Governance:** Building executive KPI/OKR & SLA monitoring dashboards using **Power BI**, **Looker Studio**, **eazyBI**, **Prometheus**, and **Grafana**.
 
 ---
